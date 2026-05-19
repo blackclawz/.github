@@ -1,0 +1,6 @@
+{
+  "name": "PR Telegram Notification",
+  "description": "Sends a Telegram message to Nick when a PR is opened, requesting review and providing a direct merge link.",
+  "iconName": "octicon-bell",
+  "categories": ["notifications"]
+}
